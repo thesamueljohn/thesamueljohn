@@ -2,10 +2,10 @@
 
 ### 🚀 About Me
 
-* [cite_start]**The Gist:** I am a Detail-oriented **Frontend Web Developer** and a Computer Science undergraduate at the **University of Lagos (Unilag)**[cite: 4, 35].
-* [cite_start]**Experience:** With over **3 years of experience**, I focus on building responsive, pixel-perfect web interfaces.
-* [cite_start]**Design Meets Code:** I have a strong background in **Graphic Design** (using Figma & Affinity), which helps me ensure seamless design-to-code implementation[cite: 5, 10].
-* [cite_start]**Current Focus:** I am passionate about performance optimization, accessibility, and creating intuitive user experiences[cite: 6].
+* **The Gist:** I am a Detail-oriented **Frontend Web Developer** and a Computer Science undergraduate at the **University of Lagos (Unilag)**.
+* **Experience:** With over **3 years of experience**, I focus on building responsive, pixel-perfect web interfaces.
+* **Design Meets Code:** I have a strong background in **Graphic Design** (using Figma & Affinity), which helps me ensure seamless design-to-code implementation.
+* **Current Focus:** I am passionate about performance optimization, accessibility, and creating intuitive user experiences
 
 ### 🛠️ Tech Stack & Tools
 
@@ -22,30 +22,30 @@ I specialize in the React ecosystem but have touched on backend technologies to 
 ### 📂 Featured Projects
 
 * **Corolla Model Private School Portal**
-    * [cite_start]*Stack:* React.js, Sass, Tailwind CSS[cite: 26].
-    * [cite_start]*Description:* A modern, multi-page frontend focusing on accessible navigation and fast load times for parents and staff[cite: 27].
+    * *Stack:* React.js, Sass, Tailwind CSS.
+    * *Description:* A modern, multi-page frontend focusing on accessible navigation and fast load times for parents and staff.
 * **Abasio Scientific Calculator**
-    * [cite_start]*Stack:* Vanilla JavaScript, HTML5, CSS3[cite: 29].
-    * [cite_start]*Description:* A fully functional scientific calculator with complex arithmetic logic built without external frameworks[cite: 30].
+    * *Stack:* Vanilla JavaScript, HTML5, CSS3.
+    * *Description:* A fully functional scientific calculator with complex arithmetic logic built without external frameworks.
 * **SavingBridge Global Care Website**
-    * [cite_start]*Stack:* WordPress, Custom CSS[cite: 20].
-    * [cite_start]*Description:* A donation-ready website optimized for the donor user journey[cite: 20].
+    * *Stack:* WordPress, Custom CSS.
+    * *Description:* A donation-ready website optimized for the donor user journey.
 
 ### 💼 Experience Highlights
 
-* [cite_start]**Web Developer & Lead Designer** @ Fullstature Missions International (2023 - Present)[cite: 13].
-* [cite_start]**Volunteer Web Tutor** @ Giving Aid International Network (2024)[cite: 22].
-* [cite_start]**Freelance Developer** delivering custom solutions for clients like Gap Tutorials[cite: 18, 21].
+* **Web Developer & Lead Designer** @ Fullstature Missions International (2023 - Present).
+* **Volunteer Web Tutor** @ Giving Aid International Network (2024).
+* **Freelance Developer** delivering custom solutions for clients like Gap Tutorials.
 
 ### 📫 Connect With Me
 
-* [cite_start]**Portfolio:** [samueljohn.netlify.app](https://samueljohn.netlify.app) [cite: 2]
-* [cite_start]**LinkedIn:** [thesamueljohn](https://linkedin.com/in/thesamueljohn) * **Email:** [samueljohnolamide@gmail.com](mailto:samueljohnolamide@gmail.com) [cite: 2]
+* **Portfolio:** [samueljohn.netlify.app](https://samueljohn.netlify.app)
+* **LinkedIn:** [thesamueljohn](https://linkedin.com/in/thesamueljohn) * **Email:** [samueljohnolamide@gmail.com](mailto:samueljohnolamide@gmail.com)
 
 ---
 
 ### My GitHub Stats
 
-![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true)
+![Samuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=thesamueljohn&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thesamueljohn&layout=compact&theme=tokyonight&hide_border=true)
