@@ -2,18 +2,18 @@
 
 ### 🚀 About Me
 
-* **The Gist:** I am a Detail-oriented **Frontend Web Developer** and a Computer Science undergraduate at the **University of Lagos (Unilag)**.
+* **The Gist:** I am a Detail-oriented **Full-stack Web Developer** and a Computer Science undergraduate at the **University of Lagos (Unilag)**.
 * **Experience:** With over **3 years of experience**, I focus on building responsive, pixel-perfect web interfaces.
 * **Design Meets Code:** I have a strong background in **Graphic Design** (using Figma & Affinity), which helps me ensure seamless design-to-code implementation.
 * **Current Focus:** I am passionate about performance optimization, accessibility, and creating intuitive user experiences
 
 ### 🛠️ Tech Stack & Tools
 
-I specialize in the React ecosystem but have touched on backend technologies to better understand the full picture.
+I specialize in the Javascript/React ecosystem and backend technologies.
 
 | Domain | Technologies |
 | :--- | :--- |
-| **Frontend Core** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
+| **Frontend** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) |
 | **Frameworks** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
 | **Styling** | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) |
 | **Design & Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) ![Affinity](https://img.shields.io/badge/Affinity-222324?style=for-the-badge&logo=affinity-designer&logoColor=white) |
