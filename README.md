@@ -3,9 +3,9 @@
 ### 🚀 About Me
 
 * **The Gist:** I am a Detail-oriented **Full-stack Web Developer** and a Computer Science undergraduate at the **University of Lagos (Unilag)**.
-* **Experience:** With over **5 years of experience**, I focus on building responsive, pixel-perfect web interfaces.
+* **Experience:** With over **5 years of experience**, I focus on building scalable, Full-stack Web Apps that solve problems.
 * **Design Meets Code:** I have a strong background in Design (using Figma & Affinity), which helps me ensure seamless design-to-code implementation.
-* **Current Focus:** I am passionate about performance optimization, accessibility, and creating intuitive user experiences
+* **Current Focus:** I am passionate about performance optimization, accessibility, and creating intuitive user experiences and functionality.
 
 ### 🛠️ Tech Stack & Tools
 
